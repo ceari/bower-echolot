@@ -1,0 +1,8 @@
+{
+  "name": "echolot",
+  "version": "1.0.3",
+  "main": "echolot.js",
+  "dependencies": {
+    "echo3": "3.0.2"
+  }
+}
